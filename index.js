@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Sabia que ibas a decir que si ñam')
+    alert('Sabia que ibas a decir que si ñam (PSDT: Pimpon Zzzz)')
 });
 
 const noBtn = document.querySelector('#noBtn');
